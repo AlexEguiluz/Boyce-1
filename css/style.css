@@ -25,12 +25,12 @@ body {
     z-index: 1;
   }
   header h1 {
-    /* float: left; */
+    float: left;
     width: 64px;
   }
   header nav {
-    /* float: right; */
-    /* margin-top: 20px; */
+    float: right; 
+    margin-top: 20px; 
   }
   
   header nav a {
