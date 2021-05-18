@@ -1,12 +1,12 @@
 # Boyce-1
 
-Different styles of layout with positioning and flexbox.
+Building this responsive site I have learned different styles of layout with positioning and flexbox.
+
 
 Check this site [here](https://boyce-week4-4.superhi.com)
 
-Colors
-Background : #000000
-Text : #fffffff
+Background color : #000000
+Text color : #fffffff
 Border unselected : transparent
 Border unselected hover : #333333
 Border selected : #ffffff
