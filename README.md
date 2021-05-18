@@ -13,6 +13,9 @@ Border selected : #ffffff
 Border selected hover : #ffe300
 Typefaces : Work Sans
 
+<br>
+<br>
+
 <img src="images/boyce1.png" width="680">
-<img src="images/boyce2.png" width="680">
+<img src="images/boyce2.png" width="280">
 
